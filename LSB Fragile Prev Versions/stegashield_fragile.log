@@ -1,0 +1,134 @@
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 64, "timestamp": "2025-10-20T22:45:05.375311"}
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 21, "timestamp": "2025-10-20T22:45:05.380669"}
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 21, "timestamp": "2025-10-20T22:45:05.380669"}
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_operation] - BIT_SCATTERING - {"total_bits": 16, "image_capacity": 1000, "utilization_percentage": 1.6}
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_operation] - BIT_SCATTERING - {"total_bits": 16, "image_capacity": 1000, "utilization_percentage": 1.6}
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 21, "timestamp": "2025-10-20T22:45:05.744243"}
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 21, "timestamp": "2025-10-20T22:45:05.744243"}
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 21, "timestamp": "2025-10-20T22:45:05.744243"}
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_performance] - PERFORMANCE - embedding: 0.001s, Success: False
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_performance] - PERFORMANCE - embedding: 0.001s, Success: False
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_performance] - PERFORMANCE - embedding: 0.001s, Success: False
+2025-10-20 22:45:05 - StegaShieldFragile - ERROR - [embed_enhanced_fragile] - EMBEDDING_ERROR - Object of type UInt8DType is not JSON serializable
+2025-10-20 22:45:05 - StegaShieldFragile - ERROR - [embed_enhanced_fragile] - EMBEDDING_ERROR - Object of type UInt8DType is not JSON serializable
+2025-10-20 22:45:05 - StegaShieldFragile - ERROR - [embed_enhanced_fragile] - EMBEDDING_ERROR - Object of type UInt8DType is not JSON serializable
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 21, "timestamp": "2025-10-20T22:45:05.816923"}
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 21, "timestamp": "2025-10-20T22:45:05.816923"}
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 21, "timestamp": "2025-10-20T22:45:05.816923"}
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 21, "timestamp": "2025-10-20T22:45:05.816923"}
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_performance] - PERFORMANCE - embedding: 0.000s, Success: False
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_performance] - PERFORMANCE - embedding: 0.000s, Success: False
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_performance] - PERFORMANCE - embedding: 0.000s, Success: False
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_performance] - PERFORMANCE - embedding: 0.000s, Success: False
+2025-10-20 22:45:05 - StegaShieldFragile - ERROR - [embed_enhanced_fragile] - EMBEDDING_ERROR - 'str' object has no attribute 'shape'
+2025-10-20 22:45:05 - StegaShieldFragile - ERROR - [embed_enhanced_fragile] - EMBEDDING_ERROR - 'str' object has no attribute 'shape'
+2025-10-20 22:45:05 - StegaShieldFragile - ERROR - [embed_enhanced_fragile] - EMBEDDING_ERROR - 'str' object has no attribute 'shape'
+2025-10-20 22:45:05 - StegaShieldFragile - ERROR - [embed_enhanced_fragile] - EMBEDDING_ERROR - 'str' object has no attribute 'shape'
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 21, "timestamp": "2025-10-20T22:45:05.836894"}
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 21, "timestamp": "2025-10-20T22:45:05.836894"}
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 21, "timestamp": "2025-10-20T22:45:05.836894"}
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 21, "timestamp": "2025-10-20T22:45:05.836894"}
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 21, "timestamp": "2025-10-20T22:45:05.836894"}
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 21, "timestamp": "2025-10-20T22:45:05.861932"}
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 21, "timestamp": "2025-10-20T22:45:05.861932"}
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 21, "timestamp": "2025-10-20T22:45:05.861932"}
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 21, "timestamp": "2025-10-20T22:45:05.861932"}
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 21, "timestamp": "2025-10-20T22:45:05.861932"}
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 21, "timestamp": "2025-10-20T22:45:05.861932"}
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_performance] - PERFORMANCE - embedding: 0.000s, Success: False
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_performance] - PERFORMANCE - embedding: 0.000s, Success: False
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_performance] - PERFORMANCE - embedding: 0.000s, Success: False
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_performance] - PERFORMANCE - embedding: 0.000s, Success: False
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_performance] - PERFORMANCE - embedding: 0.000s, Success: False
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_performance] - PERFORMANCE - embedding: 0.000s, Success: False
+2025-10-20 22:45:05 - StegaShieldFragile - ERROR - [embed_enhanced_fragile] - EMBEDDING_ERROR - Object of type UInt8DType is not JSON serializable
+2025-10-20 22:45:05 - StegaShieldFragile - ERROR - [embed_enhanced_fragile] - EMBEDDING_ERROR - Object of type UInt8DType is not JSON serializable
+2025-10-20 22:45:05 - StegaShieldFragile - ERROR - [embed_enhanced_fragile] - EMBEDDING_ERROR - Object of type UInt8DType is not JSON serializable
+2025-10-20 22:45:05 - StegaShieldFragile - ERROR - [embed_enhanced_fragile] - EMBEDDING_ERROR - Object of type UInt8DType is not JSON serializable
+2025-10-20 22:45:05 - StegaShieldFragile - ERROR - [embed_enhanced_fragile] - EMBEDDING_ERROR - Object of type UInt8DType is not JSON serializable
+2025-10-20 22:45:05 - StegaShieldFragile - ERROR - [embed_enhanced_fragile] - EMBEDDING_ERROR - Object of type UInt8DType is not JSON serializable
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 21, "timestamp": "2025-10-20T22:45:05.901838"}
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 21, "timestamp": "2025-10-20T22:45:05.901838"}
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 21, "timestamp": "2025-10-20T22:45:05.901838"}
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 21, "timestamp": "2025-10-20T22:45:05.901838"}
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 21, "timestamp": "2025-10-20T22:45:05.901838"}
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 21, "timestamp": "2025-10-20T22:45:05.901838"}
+2025-10-20 22:45:05 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 21, "timestamp": "2025-10-20T22:45:05.901838"}
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 21, "timestamp": "2025-10-20T22:45:06.030651"}
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 21, "timestamp": "2025-10-20T22:45:06.030651"}
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 21, "timestamp": "2025-10-20T22:45:06.030651"}
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 21, "timestamp": "2025-10-20T22:45:06.030651"}
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 21, "timestamp": "2025-10-20T22:45:06.030651"}
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 21, "timestamp": "2025-10-20T22:45:06.030651"}
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 21, "timestamp": "2025-10-20T22:45:06.030651"}
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 21, "timestamp": "2025-10-20T22:45:06.030651"}
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [log_performance] - PERFORMANCE - embedding: 0.000s, Success: False
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [log_performance] - PERFORMANCE - embedding: 0.000s, Success: False
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [log_performance] - PERFORMANCE - embedding: 0.000s, Success: False
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [log_performance] - PERFORMANCE - embedding: 0.000s, Success: False
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [log_performance] - PERFORMANCE - embedding: 0.000s, Success: False
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [log_performance] - PERFORMANCE - embedding: 0.000s, Success: False
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [log_performance] - PERFORMANCE - embedding: 0.000s, Success: False
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [log_performance] - PERFORMANCE - embedding: 0.000s, Success: False
+2025-10-20 22:45:06 - StegaShieldFragile - ERROR - [embed_enhanced_fragile] - EMBEDDING_ERROR - Object of type UInt8DType is not JSON serializable
+2025-10-20 22:45:06 - StegaShieldFragile - ERROR - [embed_enhanced_fragile] - EMBEDDING_ERROR - Object of type UInt8DType is not JSON serializable
+2025-10-20 22:45:06 - StegaShieldFragile - ERROR - [embed_enhanced_fragile] - EMBEDDING_ERROR - Object of type UInt8DType is not JSON serializable
+2025-10-20 22:45:06 - StegaShieldFragile - ERROR - [embed_enhanced_fragile] - EMBEDDING_ERROR - Object of type UInt8DType is not JSON serializable
+2025-10-20 22:45:06 - StegaShieldFragile - ERROR - [embed_enhanced_fragile] - EMBEDDING_ERROR - Object of type UInt8DType is not JSON serializable
+2025-10-20 22:45:06 - StegaShieldFragile - ERROR - [embed_enhanced_fragile] - EMBEDDING_ERROR - Object of type UInt8DType is not JSON serializable
+2025-10-20 22:45:06 - StegaShieldFragile - ERROR - [embed_enhanced_fragile] - EMBEDDING_ERROR - Object of type UInt8DType is not JSON serializable
+2025-10-20 22:45:06 - StegaShieldFragile - ERROR - [embed_enhanced_fragile] - EMBEDDING_ERROR - Object of type UInt8DType is not JSON serializable
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [start_monitoring] - SYSTEM_MONITORING - Started comprehensive monitoring
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 64, "timestamp": "2025-10-20T22:45:06.076889"}
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 64, "timestamp": "2025-10-20T22:45:06.076889"}
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 64, "timestamp": "2025-10-20T22:45:06.076889"}
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 64, "timestamp": "2025-10-20T22:45:06.076889"}
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 64, "timestamp": "2025-10-20T22:45:06.076889"}
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 64, "timestamp": "2025-10-20T22:45:06.076889"}
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 64, "timestamp": "2025-10-20T22:45:06.076889"}
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 64, "timestamp": "2025-10-20T22:45:06.076889"}
+2025-10-20 22:45:06 - StegaShieldFragile - INFO - [log_operation] - SYSTEM_INIT - {"version": "3.0", "key_length": 64, "timestamp": "2025-10-20T22:45:06.076889"}

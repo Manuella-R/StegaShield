@@ -1,0 +1,38 @@
+2025-10-20 23:49:30,977 - INFO - Start Time: 2025-10-20 23:49:30
+2025-10-20 23:49:30,991 - INFO - Secret Key: my_ultra_secure_key_2024
+2025-10-20 23:49:31,094 - INFO - 
+============================================================
+2025-10-20 23:49:31,106 - INFO - ============================================================
+2025-10-20 23:49:31,110 - INFO - 
+Testing 'geometric' image...
+2025-10-20 23:49:34,552 - INFO -   PSNR: 51.14 dB
+2025-10-20 23:49:34,552 - INFO -   Tamper percentage: 0.0000%
+2025-10-20 23:49:34,552 - INFO -   Status: VALID
+2025-10-20 23:49:34,552 - INFO -   Channel tampering: ['0.0000%', '0.0000%', '0.0000%']
+2025-10-20 23:49:34,552 - INFO - 
+Testing 'gradient' image...
+2025-10-20 23:49:34,682 - INFO -   PSNR: 51.16 dB
+2025-10-20 23:49:34,683 - INFO -   Tamper percentage: 0.0000%
+2025-10-20 23:49:34,685 - INFO -   Status: VALID
+2025-10-20 23:49:34,685 - INFO -   Channel tampering: ['0.0000%', '0.0000%', '0.0000%']
+2025-10-20 23:49:34,689 - INFO - 
+Testing 'random_texture' image...
+2025-10-20 23:49:34,770 - INFO -   PSNR: 51.14 dB
+2025-10-20 23:49:34,771 - INFO -   Tamper percentage: 0.0000%
+2025-10-20 23:49:34,773 - INFO -   Status: VALID
+2025-10-20 23:49:34,773 - INFO -   Channel tampering: ['0.0000%', '0.0000%', '0.0000%']
+2025-10-20 23:49:34,775 - INFO - 
+Testing 'smooth' image...
+2025-10-20 23:49:34,840 - INFO -   PSNR: 51.14 dB
+2025-10-20 23:49:34,841 - INFO -   Tamper percentage: 0.0000%
+2025-10-20 23:49:34,843 - INFO -   Status: VALID
+2025-10-20 23:49:34,844 - INFO -   Channel tampering: ['0.0000%', '0.0000%', '0.0000%']
+2025-10-20 23:49:34,846 - INFO - 
+============================================================
+2025-10-20 23:49:34,853 - INFO - ============================================================
+2025-10-20 23:49:34,855 - INFO - 
+Testing 'geometric' image tampering detection...
+2025-10-20 23:49:36,823 - INFO - 
+Testing 'gradient' image tampering detection...
+2025-10-20 23:49:38,897 - INFO - 
+Testing 'random_texture' image tampering detection...

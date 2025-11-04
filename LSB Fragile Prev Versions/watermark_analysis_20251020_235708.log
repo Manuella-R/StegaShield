@@ -1,0 +1,280 @@
+2025-10-20 23:57:08,673 - INFO - Start Time: 2025-10-20 23:57:08
+2025-10-20 23:57:08,673 - INFO - Secret Key: my_ultra_secure_key_2024
+2025-10-20 23:57:08,840 - INFO - 
+============================================================
+2025-10-20 23:57:08,848 - INFO - ============================================================
+2025-10-20 23:57:08,850 - INFO - 
+Testing 'geometric' image...
+2025-10-20 23:57:08,937 - INFO -   PSNR: 51.14 dB
+2025-10-20 23:57:08,937 - INFO -   Tamper percentage: 0.0000%
+2025-10-20 23:57:08,937 - INFO -   Status: VALID
+2025-10-20 23:57:08,953 - INFO -   Channel tampering: ['0.0000%', '0.0000%', '0.0000%']
+2025-10-20 23:57:08,953 - INFO - 
+Testing 'gradient' image...
+2025-10-20 23:57:09,036 - INFO -   PSNR: 51.16 dB
+2025-10-20 23:57:09,036 - INFO -   Tamper percentage: 0.0000%
+2025-10-20 23:57:09,036 - INFO -   Status: VALID
+2025-10-20 23:57:09,036 - INFO -   Channel tampering: ['0.0000%', '0.0000%', '0.0000%']
+2025-10-20 23:57:09,036 - INFO - 
+Testing 'random_texture' image...
+2025-10-20 23:57:09,136 - INFO -   PSNR: 51.14 dB
+2025-10-20 23:57:09,136 - INFO -   Tamper percentage: 0.0000%
+2025-10-20 23:57:09,136 - INFO -   Status: VALID
+2025-10-20 23:57:09,136 - INFO -   Channel tampering: ['0.0000%', '0.0000%', '0.0000%']
+2025-10-20 23:57:09,136 - INFO - 
+Testing 'smooth' image...
+2025-10-20 23:57:09,220 - INFO -   PSNR: 51.14 dB
+2025-10-20 23:57:09,220 - INFO -   Tamper percentage: 0.0000%
+2025-10-20 23:57:09,220 - INFO -   Status: VALID
+2025-10-20 23:57:09,220 - INFO -   Channel tampering: ['0.0000%', '0.0000%', '0.0000%']
+2025-10-20 23:57:09,238 - INFO - 
+============================================================
+2025-10-20 23:57:09,240 - INFO - ============================================================
+2025-10-20 23:57:09,240 - INFO - 
+Testing 'geometric' image tampering detection...
+2025-10-20 23:57:11,310 - INFO - 
+Testing 'gradient' image tampering detection...
+2025-10-20 23:57:13,018 - INFO - 
+Testing 'random_texture' image tampering detection...
+2025-10-20 23:57:14,472 - INFO - 
+Testing 'smooth' image tampering detection...
+2025-10-20 23:57:16,105 - INFO - 
+================================================================================
+2025-10-20 23:57:16,122 - INFO - ================================================================================
+2025-10-20 23:57:16,126 - INFO - --------------------------------------------------
+2025-10-20 23:57:16,126 - INFO - geometric      :   0.0000% - VALID
+2025-10-20 23:57:16,126 - INFO - gradient       :   0.0000% - VALID
+2025-10-20 23:57:16,134 - INFO - random_texture :   0.0000% - VALID
+2025-10-20 23:57:16,134 - INFO - smooth         :   0.0000% - VALID
+2025-10-20 23:57:16,139 - INFO - 
+Untampered Success Rate: 100.0%
+2025-10-20 23:57:16,147 - INFO - --------------------------------------------------
+2025-10-20 23:57:16,150 - INFO - 
+geometric:
+2025-10-20 23:57:16,150 - INFO -   jpeg_q95       :  45.35% - DETECTED
+2025-10-20 23:57:16,154 - INFO -   jpeg_q85       :  49.72% - DETECTED
+2025-10-20 23:57:16,154 - INFO -   jpeg_q75       :  48.54% - DETECTED
+2025-10-20 23:57:16,155 - INFO -   jpeg_q50       :  50.05% - DETECTED
+2025-10-20 23:57:16,155 - INFO -   jpeg_q25       :  49.96% - DETECTED
+2025-10-20 23:57:16,155 - INFO -   noise_1        :  20.33% - DETECTED
+2025-10-20 23:57:16,155 - INFO -   noise_2        :  32.29% - DETECTED
+2025-10-20 23:57:16,155 - INFO -   noise_5        :  42.18% - DETECTED
+2025-10-20 23:57:16,155 - INFO -   noise_10       :  46.00% - DETECTED
+2025-10-20 23:57:16,155 - INFO -   brightness+2   :   3.68% - DETECTED
+2025-10-20 23:57:16,155 - INFO -   brightness-2   :  46.30% - DETECTED
+2025-10-20 23:57:16,168 - INFO -   brightness+5   :  96.31% - DETECTED
+2025-10-20 23:57:16,170 - INFO -   brightness-5   :  53.67% - DETECTED
+2025-10-20 23:57:16,172 - INFO -   brightness+10  :   3.68% - DETECTED
+2025-10-20 23:57:16,172 - INFO -   brightness-10  :  46.30% - DETECTED
+2025-10-20 23:57:16,172 - INFO -   brightness+20  :   3.68% - DETECTED
+2025-10-20 23:57:16,172 - INFO -   brightness-20  :  46.30% - DETECTED
+2025-10-20 23:57:16,172 - INFO -   blur_3         :  19.96% - DETECTED
+2025-10-20 23:57:16,172 - INFO -   blur_5         :  28.34% - DETECTED
+2025-10-20 23:57:16,172 - INFO -   blur_7         :  33.91% - DETECTED
+2025-10-20 23:57:16,172 - INFO -   crop_2         :  46.64% - DETECTED
+2025-10-20 23:57:16,172 - INFO -   crop_5         :  49.40% - DETECTED
+2025-10-20 23:57:16,172 - INFO -   crop_10        :  49.89% - DETECTED
+2025-10-20 23:57:16,172 - INFO - 
+gradient:
+2025-10-20 23:57:16,188 - INFO -   jpeg_q95       :  48.82% - DETECTED
+2025-10-20 23:57:16,188 - INFO -   jpeg_q85       :  49.67% - DETECTED
+2025-10-20 23:57:16,188 - INFO -   jpeg_q75       :  49.96% - DETECTED
+2025-10-20 23:57:16,188 - INFO -   jpeg_q50       :  50.08% - DETECTED
+2025-10-20 23:57:16,188 - INFO -   jpeg_q25       :  50.03% - DETECTED
+2025-10-20 23:57:16,188 - INFO -   noise_1        :  21.69% - DETECTED
+2025-10-20 23:57:16,188 - INFO -   noise_2        :  35.44% - DETECTED
+2025-10-20 23:57:16,188 - INFO -   noise_5        :  44.02% - DETECTED
+2025-10-20 23:57:16,188 - INFO -   noise_10       :  46.85% - DETECTED
+2025-10-20 23:57:16,204 - INFO -   brightness+2   :   0.00% - MISSED
+2025-10-20 23:57:16,205 - INFO -   brightness-2   :   0.57% - MISSED
+2025-10-20 23:57:16,205 - INFO -   brightness+5   : 100.00% - DETECTED
+2025-10-20 23:57:16,205 - INFO -   brightness-5   :  98.31% - DETECTED
+2025-10-20 23:57:16,205 - INFO -   brightness+10  :   0.25% - MISSED
+2025-10-20 23:57:16,205 - INFO -   brightness-10  :   2.76% - DETECTED
+2025-10-20 23:57:16,205 - INFO -   brightness+20  :   0.90% - MISSED
+2025-10-20 23:57:16,205 - INFO -   brightness-20  :   5.52% - DETECTED
+2025-10-20 23:57:16,205 - INFO -   blur_3         :  34.27% - DETECTED
+2025-10-20 23:57:16,221 - INFO -   blur_5         :  41.14% - DETECTED
+2025-10-20 23:57:16,222 - INFO -   blur_7         :  46.66% - DETECTED
+2025-10-20 23:57:16,223 - INFO -   crop_2         :  47.49% - DETECTED
+2025-10-20 23:57:16,223 - INFO -   crop_5         :  49.50% - DETECTED
+2025-10-20 23:57:16,227 - INFO -   crop_10        :  49.90% - DETECTED
+2025-10-20 23:57:16,227 - INFO - 
+random_texture:
+2025-10-20 23:57:16,229 - INFO -   jpeg_q95       :  49.87% - DETECTED
+2025-10-20 23:57:16,231 - INFO -   jpeg_q85       :  50.01% - DETECTED
+2025-10-20 23:57:16,231 - INFO -   jpeg_q75       :  49.99% - DETECTED
+2025-10-20 23:57:16,231 - INFO -   jpeg_q50       :  49.95% - DETECTED
+2025-10-20 23:57:16,231 - INFO -   jpeg_q25       :  49.98% - DETECTED
+2025-10-20 23:57:16,231 - INFO -   noise_1        :  21.67% - DETECTED
+2025-10-20 23:57:16,238 - INFO -   noise_2        :  35.41% - DETECTED
+2025-10-20 23:57:16,239 - INFO -   noise_5        :  44.03% - DETECTED
+2025-10-20 23:57:16,240 - INFO -   noise_10       :  46.86% - DETECTED
+2025-10-20 23:57:16,242 - INFO -   brightness+2   :   0.20% - MISSED
+2025-10-20 23:57:16,243 - INFO -   brightness-2   :   0.40% - MISSED
+2025-10-20 23:57:16,244 - INFO -   brightness+5   :  99.02% - DETECTED
+2025-10-20 23:57:16,246 - INFO -   brightness-5   :  98.81% - DETECTED
+2025-10-20 23:57:16,247 - INFO -   brightness+10  :   1.78% - MISSED
+2025-10-20 23:57:16,248 - INFO -   brightness-10  :   1.94% - MISSED
+2025-10-20 23:57:16,249 - INFO -   brightness+20  :   3.73% - DETECTED
+2025-10-20 23:57:16,252 - INFO -   brightness-20  :   3.93% - DETECTED
+2025-10-20 23:57:16,253 - INFO -   blur_3         :  49.90% - DETECTED
+2025-10-20 23:57:16,254 - INFO -   blur_5         :  49.95% - DETECTED
+2025-10-20 23:57:16,255 - INFO -   blur_7         :  50.00% - DETECTED
+2025-10-20 23:57:16,257 - INFO -   crop_2         :  50.03% - DETECTED
+2025-10-20 23:57:16,259 - INFO -   crop_5         :  50.06% - DETECTED
+2025-10-20 23:57:16,261 - INFO -   crop_10        :  49.86% - DETECTED
+2025-10-20 23:57:16,263 - INFO - 
+smooth:
+2025-10-20 23:57:16,264 - INFO -   jpeg_q95       :  49.54% - DETECTED
+2025-10-20 23:57:16,267 - INFO -   jpeg_q85       :  49.92% - DETECTED
+2025-10-20 23:57:16,268 - INFO -   jpeg_q75       :  50.11% - DETECTED
+2025-10-20 23:57:16,270 - INFO -   jpeg_q50       :  50.15% - DETECTED
+2025-10-20 23:57:16,272 - INFO -   jpeg_q25       :  50.15% - DETECTED
+2025-10-20 23:57:16,277 - INFO -   noise_1        :  21.70% - DETECTED
+2025-10-20 23:57:16,279 - INFO -   noise_2        :  35.45% - DETECTED
+2025-10-20 23:57:16,294 - INFO -   noise_5        :  44.06% - DETECTED
+2025-10-20 23:57:16,305 - INFO -   noise_10       :  46.91% - DETECTED
+2025-10-20 23:57:16,305 - INFO -   brightness+2   :   0.00% - MISSED
+2025-10-20 23:57:16,320 - INFO -   brightness-2   :   0.30% - MISSED
+2025-10-20 23:57:16,321 - INFO -   brightness+5   : 100.00% - DETECTED
+2025-10-20 23:57:16,321 - INFO -   brightness-5   :  98.91% - DETECTED
+2025-10-20 23:57:16,321 - INFO -   brightness+10  :   0.00% - MISSED
+2025-10-20 23:57:16,321 - INFO -   brightness-10  :   1.93% - MISSED
+2025-10-20 23:57:16,321 - INFO -   brightness+20  :   0.00% - MISSED
+2025-10-20 23:57:16,321 - INFO -   brightness-20  :   4.05% - DETECTED
+2025-10-20 23:57:16,329 - INFO -   blur_3         :  44.24% - DETECTED
+2025-10-20 23:57:16,329 - INFO -   blur_5         :  47.86% - DETECTED
+2025-10-20 23:57:16,331 - INFO -   blur_7         :  49.52% - DETECTED
+2025-10-20 23:57:16,333 - INFO -   crop_2         :  48.19% - DETECTED
+2025-10-20 23:57:16,335 - INFO -   crop_5         :  49.70% - DETECTED
+2025-10-20 23:57:16,337 - INFO -   crop_10        :  49.90% - DETECTED
+2025-10-20 23:57:16,338 - INFO - 
+Tampering Detection Rate: 85.9%
+2025-10-20 23:57:16,342 - INFO - ------------------------------
+2025-10-20 23:57:16,344 - INFO - Overall System Score: 92.9%
+2025-10-20 23:57:16,344 - INFO - System Rating: EXCELLENT
+2025-10-20 23:57:16,344 - INFO - Test Duration: 7.67 seconds
+2025-10-20 23:57:16,348 - INFO - Log File: watermark_analysis_20251020_235708.log
+2025-10-20 23:57:16,455 - INFO - 
+================================================================================
+2025-10-20 23:57:16,461 - INFO - ================================================================================
+2025-10-20 23:57:16,465 - INFO - --------------------------------------------------
+2025-10-20 23:57:16,466 - INFO - geometric      :   0.0000% - VALID
+2025-10-20 23:57:16,468 - INFO - gradient       :   0.0000% - VALID
+2025-10-20 23:57:16,471 - INFO - random_texture :   0.0000% - VALID
+2025-10-20 23:57:16,472 - INFO - smooth         :   0.0000% - VALID
+2025-10-20 23:57:16,472 - INFO - 
+Untampered Success Rate: 100.0%
+2025-10-20 23:57:16,472 - INFO - --------------------------------------------------
+2025-10-20 23:57:16,472 - INFO - 
+geometric:
+2025-10-20 23:57:16,472 - INFO -   jpeg_q95       :  45.35% - DETECTED
+2025-10-20 23:57:16,488 - INFO -   jpeg_q85       :  49.72% - DETECTED
+2025-10-20 23:57:16,488 - INFO -   jpeg_q75       :  48.54% - DETECTED
+2025-10-20 23:57:16,488 - INFO -   jpeg_q50       :  50.05% - DETECTED
+2025-10-20 23:57:16,493 - INFO -   jpeg_q25       :  49.96% - DETECTED
+2025-10-20 23:57:16,495 - INFO -   noise_1        :  20.33% - DETECTED
+2025-10-20 23:57:16,497 - INFO -   noise_2        :  32.29% - DETECTED
+2025-10-20 23:57:16,497 - INFO -   noise_5        :  42.18% - DETECTED
+2025-10-20 23:57:16,499 - INFO -   noise_10       :  46.00% - DETECTED
+2025-10-20 23:57:16,499 - INFO -   brightness+2   :   3.68% - DETECTED
+2025-10-20 23:57:16,499 - INFO -   brightness-2   :  46.30% - DETECTED
+2025-10-20 23:57:16,503 - INFO -   brightness+5   :  96.31% - DETECTED
+2025-10-20 23:57:16,503 - INFO -   brightness-5   :  53.67% - DETECTED
+2025-10-20 23:57:16,503 - INFO -   brightness+10  :   3.68% - DETECTED
+2025-10-20 23:57:16,503 - INFO -   brightness-10  :  46.30% - DETECTED
+2025-10-20 23:57:16,503 - INFO -   brightness+20  :   3.68% - DETECTED
+2025-10-20 23:57:16,503 - INFO -   brightness-20  :  46.30% - DETECTED
+2025-10-20 23:57:16,503 - INFO -   blur_3         :  19.96% - DETECTED
+2025-10-20 23:57:16,503 - INFO -   blur_5         :  28.34% - DETECTED
+2025-10-20 23:57:16,503 - INFO -   blur_7         :  33.91% - DETECTED
+2025-10-20 23:57:16,503 - INFO -   crop_2         :  46.64% - DETECTED
+2025-10-20 23:57:16,503 - INFO -   crop_5         :  49.40% - DETECTED
+2025-10-20 23:57:16,522 - INFO -   crop_10        :  49.89% - DETECTED
+2025-10-20 23:57:16,522 - INFO - 
+gradient:
+2025-10-20 23:57:16,525 - INFO -   jpeg_q95       :  48.82% - DETECTED
+2025-10-20 23:57:16,525 - INFO -   jpeg_q85       :  49.67% - DETECTED
+2025-10-20 23:57:16,530 - INFO -   jpeg_q75       :  49.96% - DETECTED
+2025-10-20 23:57:16,530 - INFO -   jpeg_q50       :  50.08% - DETECTED
+2025-10-20 23:57:16,533 - INFO -   jpeg_q25       :  50.03% - DETECTED
+2025-10-20 23:57:16,533 - INFO -   noise_1        :  21.69% - DETECTED
+2025-10-20 23:57:16,533 - INFO -   noise_2        :  35.44% - DETECTED
+2025-10-20 23:57:16,538 - INFO -   noise_5        :  44.02% - DETECTED
+2025-10-20 23:57:16,539 - INFO -   noise_10       :  46.85% - DETECTED
+2025-10-20 23:57:16,541 - INFO -   brightness+2   :   0.00% - MISSED
+2025-10-20 23:57:16,543 - INFO -   brightness-2   :   0.57% - MISSED
+2025-10-20 23:57:16,544 - INFO -   brightness+5   : 100.00% - DETECTED
+2025-10-20 23:57:16,546 - INFO -   brightness-5   :  98.31% - DETECTED
+2025-10-20 23:57:16,548 - INFO -   brightness+10  :   0.25% - MISSED
+2025-10-20 23:57:16,548 - INFO -   brightness-10  :   2.76% - DETECTED
+2025-10-20 23:57:16,550 - INFO -   brightness+20  :   0.90% - MISSED
+2025-10-20 23:57:16,553 - INFO -   brightness-20  :   5.52% - DETECTED
+2025-10-20 23:57:16,555 - INFO -   blur_3         :  34.27% - DETECTED
+2025-10-20 23:57:16,558 - INFO -   blur_5         :  41.14% - DETECTED
+2025-10-20 23:57:16,560 - INFO -   blur_7         :  46.66% - DETECTED
+2025-10-20 23:57:16,561 - INFO -   crop_2         :  47.49% - DETECTED
+2025-10-20 23:57:16,563 - INFO -   crop_5         :  49.50% - DETECTED
+2025-10-20 23:57:16,565 - INFO -   crop_10        :  49.90% - DETECTED
+2025-10-20 23:57:16,567 - INFO - 
+random_texture:
+2025-10-20 23:57:16,569 - INFO -   jpeg_q95       :  49.87% - DETECTED
+2025-10-20 23:57:16,571 - INFO -   jpeg_q85       :  50.01% - DETECTED
+2025-10-20 23:57:16,571 - INFO -   jpeg_q75       :  49.99% - DETECTED
+2025-10-20 23:57:16,571 - INFO -   jpeg_q50       :  49.95% - DETECTED
+2025-10-20 23:57:16,571 - INFO -   jpeg_q25       :  49.98% - DETECTED
+2025-10-20 23:57:16,571 - INFO -   noise_1        :  21.67% - DETECTED
+2025-10-20 23:57:16,571 - INFO -   noise_2        :  35.41% - DETECTED
+2025-10-20 23:57:16,571 - INFO -   noise_5        :  44.03% - DETECTED
+2025-10-20 23:57:16,571 - INFO -   noise_10       :  46.86% - DETECTED
+2025-10-20 23:57:16,571 - INFO -   brightness+2   :   0.20% - MISSED
+2025-10-20 23:57:16,571 - INFO -   brightness-2   :   0.40% - MISSED
+2025-10-20 23:57:16,586 - INFO -   brightness+5   :  99.02% - DETECTED
+2025-10-20 23:57:16,586 - INFO -   brightness-5   :  98.81% - DETECTED
+2025-10-20 23:57:16,586 - INFO -   brightness+10  :   1.78% - MISSED
+2025-10-20 23:57:16,586 - INFO -   brightness-10  :   1.94% - MISSED
+2025-10-20 23:57:16,592 - INFO -   brightness+20  :   3.73% - DETECTED
+2025-10-20 23:57:16,592 - INFO -   brightness-20  :   3.93% - DETECTED
+2025-10-20 23:57:16,592 - INFO -   blur_3         :  49.90% - DETECTED
+2025-10-20 23:57:16,592 - INFO -   blur_5         :  49.95% - DETECTED
+2025-10-20 23:57:16,592 - INFO -   blur_7         :  50.00% - DETECTED
+2025-10-20 23:57:16,602 - INFO -   crop_2         :  50.03% - DETECTED
+2025-10-20 23:57:16,602 - INFO -   crop_5         :  50.06% - DETECTED
+2025-10-20 23:57:16,602 - INFO -   crop_10        :  49.86% - DETECTED
+2025-10-20 23:57:16,606 - INFO - 
+smooth:
+2025-10-20 23:57:16,606 - INFO -   jpeg_q95       :  49.54% - DETECTED
+2025-10-20 23:57:16,608 - INFO -   jpeg_q85       :  49.92% - DETECTED
+2025-10-20 23:57:16,610 - INFO -   jpeg_q75       :  50.11% - DETECTED
+2025-10-20 23:57:16,612 - INFO -   jpeg_q50       :  50.15% - DETECTED
+2025-10-20 23:57:16,612 - INFO -   jpeg_q25       :  50.15% - DETECTED
+2025-10-20 23:57:16,614 - INFO -   noise_1        :  21.70% - DETECTED
+2025-10-20 23:57:16,614 - INFO -   noise_2        :  35.45% - DETECTED
+2025-10-20 23:57:16,616 - INFO -   noise_5        :  44.06% - DETECTED
+2025-10-20 23:57:16,618 - INFO -   noise_10       :  46.91% - DETECTED
+2025-10-20 23:57:16,620 - INFO -   brightness+2   :   0.00% - MISSED
+2025-10-20 23:57:16,621 - INFO -   brightness-2   :   0.30% - MISSED
+2025-10-20 23:57:16,624 - INFO -   brightness+5   : 100.00% - DETECTED
+2025-10-20 23:57:16,624 - INFO -   brightness-5   :  98.91% - DETECTED
+2025-10-20 23:57:16,626 - INFO -   brightness+10  :   0.00% - MISSED
+2025-10-20 23:57:16,626 - INFO -   brightness-10  :   1.93% - MISSED
+2025-10-20 23:57:16,628 - INFO -   brightness+20  :   0.00% - MISSED
+2025-10-20 23:57:16,628 - INFO -   brightness-20  :   4.05% - DETECTED
+2025-10-20 23:57:16,630 - INFO -   blur_3         :  44.24% - DETECTED
+2025-10-20 23:57:16,632 - INFO -   blur_5         :  47.86% - DETECTED
+2025-10-20 23:57:16,632 - INFO -   blur_7         :  49.52% - DETECTED
+2025-10-20 23:57:16,632 - INFO -   crop_2         :  48.19% - DETECTED
+2025-10-20 23:57:16,632 - INFO -   crop_5         :  49.70% - DETECTED
+2025-10-20 23:57:16,637 - INFO -   crop_10        :  49.90% - DETECTED
+2025-10-20 23:57:16,637 - INFO - 
+Tampering Detection Rate: 85.9%
+2025-10-20 23:57:16,637 - INFO - ------------------------------
+2025-10-20 23:57:16,637 - INFO - Overall System Score: 92.9%
+2025-10-20 23:57:16,648 - INFO - System Rating: EXCELLENT
+2025-10-20 23:57:16,648 - INFO - Test Duration: 7.98 seconds
+2025-10-20 23:57:16,648 - INFO - Log File: watermark_analysis_20251020_235708.log
+2025-10-21 09:17:17,759 - ERROR - No such comm target registered: jupyter.widget.control
+2025-10-21 09:17:17,766 - WARNING - No such comm: ed42fe83-e232-4ee4-8408-b937335dc4e8
+2025-10-21 13:02:47,575 - ERROR - No such comm target registered: jupyter.widget.control
+2025-10-21 13:02:47,588 - WARNING - No such comm: 68af6531-c151-401f-93ce-484be599dc26
