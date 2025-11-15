@@ -1,0 +1,72 @@
+// src/styles/dashboardStyles.js
+// (We just copy-pasted this from your Dashboard.jsx)
+
+export const styles = {
+  container: {
+    maxWidth: '1200px',
+    margin: '0 auto',
+    padding: '1rem 0 3rem',
+    color: 'var(--cream)',
+  },
+  card: {
+    background: 'rgba(29, 6, 6, 0.82)',
+    border: '1px solid rgba(245, 230, 211, 0.18)',
+    borderRadius: '18px',
+    padding: '1.75rem',
+    marginBottom: '1.75rem',
+    boxShadow: '0 22px 45px rgba(0, 0, 0, 0.35)',
+    backdropFilter: 'blur(14px)',
+  },
+  h2: {
+    marginTop: 0,
+    fontSize: '1.45rem',
+    borderBottom: '1px solid rgba(212, 175, 55, 0.35)',
+    paddingBottom: '0.6rem',
+    marginBottom: '1.5rem',
+    letterSpacing: '0.02em',
+    color: 'var(--accent-gold)',
+  },
+  label: {
+    display: 'block',
+    fontWeight: 600,
+    fontSize: '0.95rem',
+    marginBottom: '0.5rem',
+    color: 'var(--muted-cream)',
+  },
+  input: {
+    width: '100%',
+    padding: '0.65rem 0.9rem',
+    border: '1px solid rgba(245, 230, 211, 0.24)',
+    borderRadius: '10px',
+    marginBottom: '1rem',
+    background: 'rgba(245, 230, 211, 0.08)',
+    color: 'var(--cream)',
+  },
+  select: {
+    width: '100%',
+    padding: '0.65rem 0.9rem',
+    border: '1px solid rgba(245, 230, 211, 0.24)',
+    borderRadius: '10px',
+    background: 'rgba(245, 230, 211, 0.08)',
+    color: 'var(--cream)',
+    marginBottom: '1rem',
+  },
+  button: {
+    padding: '0.65rem 1.35rem',
+    border: 'none',
+    borderRadius: '999px',
+    background: 'linear-gradient(135deg, var(--accent-gold), var(--accent-gold-soft))',
+    color: 'var(--dark-maroon)',
+    cursor: 'pointer',
+    fontSize: '0.92rem',
+    fontWeight: 600,
+    marginRight: '0.5rem',
+    boxShadow: '0 12px 24px rgba(212, 175, 55, 0.22)',
+    transition: 'transform 0.2s ease, box-shadow 0.2s ease',
+  },
+  grid: {
+    display: 'grid',
+    gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))',
+    gap: '1.75rem',
+  },
+};
