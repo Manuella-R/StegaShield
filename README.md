@@ -37,7 +37,7 @@ StegaShield is a full-stack web application that enables users to embed invisibl
 
 ### Frontend
 - **Node.js** v18 or higher
-- **npm** or **yarn**
+- **npm**
 
 ### Watermark Model Service
 - **Python 3.10+** (required)
@@ -50,7 +50,7 @@ StegaShield is a full-stack web application that enables users to embed invisibl
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone (https://github.com/Manuella-R/StegaShield.git)
 cd intagrated
 ```
 
