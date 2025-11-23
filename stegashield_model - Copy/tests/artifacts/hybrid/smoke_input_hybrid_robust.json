@@ -1,0 +1,29 @@
+{
+  "payload_metadata": {
+    "original_length": 6,
+    "encoded_length": 6,
+    "final_length": 10,
+    "ecc_symbols": 0,
+    "header_structure": {
+      "payload_len_bytes": 4,
+      "sig_len_bytes": 0
+    }
+  },
+  "fragile_hash": "90e908a3eadc7e40f9dd863965c659086c4f277494efa91f400ee8bad78bc532",
+  "embedding_params": {
+    "alpha_dct": 0.12,
+    "redundancy": 1,
+    "block_size_dct": 8
+  },
+  "original_shape": [
+    256,
+    256,
+    3
+  ],
+  "public_key_path": null,
+  "has_deterministic_header": true,
+  "domains_used": [
+    "lsb"
+  ],
+  "message": "SmokeH"
+}
