@@ -1,0 +1,15 @@
+{
+  "robust": {
+    "verdict": "AUTHENTIC",
+    "decoded_message": "SmokeR"
+  },
+  "semi_fragile": {
+    "bit_accuracy": 1.0,
+    "heatmap": "C:\\Users\\rehem\\OneDrive\\Desktop\\Models\\stegashield_model - Copy\\tests\\artifacts\\semi_fragile\\smoke_input_semi_fragile_heatmap.png"
+  },
+  "hybrid": {
+    "bit_accuracy": 1.0,
+    "robust_verdict": "AUTHENTIC",
+    "heatmap": "C:\\Users\\rehem\\OneDrive\\Desktop\\Models\\stegashield_model - Copy\\tests\\artifacts\\hybrid\\smoke_input_hybrid_heatmap.png"
+  }
+}
